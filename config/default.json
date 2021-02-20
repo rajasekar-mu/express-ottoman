@@ -1,0 +1,10 @@
+{
+    "jwtConfig":{
+      "secretKey":"zUtY*&Pq",
+      "expiresIn":"4h"
+    },
+	"paginationConfig":{
+		"department":20,
+		"application":20
+	}
+}
